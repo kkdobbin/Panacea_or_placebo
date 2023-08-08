@@ -53,6 +53,6 @@ Sankey_all
 Sankey_CWS
 
 library(patchwork)
-Fig1 <- Sankey_all + Sankey_CWS #this is no longer working since they aren't ggplots. Combine manually and result is in figures folder
+Fig1 <- Sankey_all + Sankey_CWS #this is no longer working since they aren't ggplots. Combine manually and result is in figures folder. The other figure comes from ESRI so also just copied into that folder for reference
 
 
